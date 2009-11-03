@@ -3,13 +3,15 @@ Einstein's Riddle
 
 I got this fantastic riddle from **yiyun** at [RubyLearningChina.com](http://cn.rubylearning.com/home/index.php).
 
-This is his post: [Riddle by Einstein](http://cn.rubylearning.com/blog/posts/riddle-by-einstein.rb) Cool! B-)
+The post is: [Riddle by Einstein](http://cn.rubylearning.com/blog/posts/riddle-by-einstein.rb) Cool! B-)
 
 It inspired me so much to try!
 
 
 The Riddle
 ----------
+
+Look at [this](http://www.manbottle.com/trivia/einstein_s_riddle).
 
 <pre><code>
  *01. The Englishman lives in the red house.
@@ -29,6 +31,7 @@ The Riddle
   15. The Blend smoker has a neighbor who drinks water.
 </code></pre>
 
+THE QUESTION: **WHO OWNS THE FISH?**
 
 Things
 ------
