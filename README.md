@@ -92,7 +92,7 @@ From 10, 15.
   house[water] + 1 == Blend or house[water] - 1 == Blend
 </code></pre>
 
-Okay, now, I can code. :-D Look at [this]().
+Okay, now, I can code. :-D Look at [this](http://github.com/ashbb/einstein_s_riddle/blob/master/einstein_s_riddle.rb).
 
 
 Output
